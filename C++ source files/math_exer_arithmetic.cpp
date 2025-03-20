@@ -1,0 +1,68 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "ADDITION";
+    cout << "\n";
+    int x;
+    cout << "enter x=";
+    cin >> x;
+    int y;
+    cout << "enter y=";
+    cin >> y;
+    int sum;
+    sum=x+y;
+    cout << "sum=";
+    cout << sum;
+    cout << "\n";
+    cout << "\n";
+    cout << "SUBTRACTION";
+    cout << "\n";
+    cout << "enter x=";
+    cin >> x;
+    cout << "enter y=";
+    cin >> y;
+    int difference;
+    difference=x-y;
+    cout << "difference=";
+    cout << difference;
+    cout << "\n";
+    cout << "\n";
+    cout << "MULTIPLICATION";
+    cout << "\n";
+    cout << "enter x=";
+    cin >> x;
+    cout << "enter y=";
+    cin >> y;
+    int product;
+    product=x*y;
+    cout << "product=";
+    cout << product;
+    cout << "\n";
+    cout << "\n";
+    cout << "DIVISION";
+    cout << "\n";
+    cout << "enter x=";
+    cin >> x;
+    cout << "enter y=";
+    cin >> y;
+    int quotient;
+    quotient=x/y;
+    cout << "quotient=";
+    cout << quotient;
+    cout << "\n";
+    cout << "\n";
+    cout << "MODULUS";
+    cout << "\n";
+    cout << "enter x=";
+    cin >> x;
+    cout << "enter y=";
+    cin >> y;
+    int remainder;
+    remainder=x%y;
+    cout << "remainder=";
+    cout << remainder;
+    cout << "\n";
+    system ("pause");
+}
