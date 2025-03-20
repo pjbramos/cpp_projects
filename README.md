@@ -34,8 +34,7 @@ The user inputs the size of the shape.
 
 3. Exercise on arithmetic operations ([math_exer_arithmetic.cpp](https://github.com/pjbramos/cpp_projects/blob/main/C%2B%2B%20source%20files/math_exer_arithmetic.cpp))
    <br><img src="https://github.com/user-attachments/assets/d83418f5-3dc4-49ca-88e1-cf3dded4715b" width="500">
-
-<br>
+   
 ### Loop Exercises
 
 1. Exercise on changing capitalization of a user-provided word, phrase, or sentence ([string_exer_capital.cpp](https://github.com/pjbramos/cpp_projects/blob/main/C%2B%2B%20source%20files/string_exer_capital.cpp))
